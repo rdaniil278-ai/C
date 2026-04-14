@@ -2,7 +2,7 @@
 
 //git init
 
-//git remote add main https://github.com/rdaniil278-ai/C.git
+//git remote add "main(назание)" https://github.com/rdaniil278-ai/C.git (ссылка на проект)
 
 //git add .
 
