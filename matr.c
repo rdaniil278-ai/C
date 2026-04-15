@@ -2,15 +2,15 @@
 
 int main(){
 
-    int matrix[5][5];
+    int matrix[4][5];
     
-    for (int i = 0; i < 5; i++) {
+    for (int i = 0; i < 4; i++) {
         for (int j = 0; j < 5; j++) {
             matrix[i][j] = i + j;
         }
     }
 
-    for (int i = 0; i < 5; i++){
+    for (int i = 0; i < 4; i++){
         for (int j = 0; j < 5; j++){
             printf("%d", matrix[i][j]);
         }
